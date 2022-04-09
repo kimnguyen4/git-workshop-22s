@@ -15,6 +15,7 @@ def main() -> None:
     print("You can also accomplish this by typing cat demo.txt (macOS and Linux) or more demo.txt (Windows)")
     
     # Add whatever else you want under this line!
+    # hi
     # A simple print statement, something interesting, or anything else.
     # If you want your pull request to be accepted, don't put anything you wouldn't want others to see.
 
